@@ -1,0 +1,15 @@
+{
+  "min_row_sum_before_norm": 0.9999966488590137,
+  "max_row_sum_before_norm": 1.0000000000000022,
+  "max_omitted_tail_mass": 3.3511409862629904e-06,
+  "min_row_sum_after_norm": 0.9999999999999998,
+  "max_row_sum_after_norm": 1.0000000000000002,
+  "q0_index": 300,
+  "V0_at_q0": -15120.666824082447,
+  "a0_at_q0": 0.015,
+  "b0_at_q0": 0.035,
+  "spread0_at_q0": 0.05,
+  "skew0_at_q0": -0.020000000000000004,
+  "avg_skew_neg_t0": 0.016775000000000005,
+  "avg_skew_pos_t0": -0.016774999999999998
+}

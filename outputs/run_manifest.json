@@ -1,0 +1,8 @@
+{
+  "runtime_seconds": 25.43154788017273,
+  "output_dir": "/home/evangoforth03/Econ 7300 HW3/market_maker_dp/outputs",
+  "n_q": 401,
+  "n_controls": 121,
+  "n_k": 101,
+  "n_sims": 5000
+}
